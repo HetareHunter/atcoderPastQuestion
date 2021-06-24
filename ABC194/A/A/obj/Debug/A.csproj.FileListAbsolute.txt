@@ -1,0 +1,7 @@
+D:\競技プログラミング\AtCoder\ABC194\A\A\bin\Debug\A.exe.config
+D:\競技プログラミング\AtCoder\ABC194\A\A\bin\Debug\A.exe
+D:\競技プログラミング\AtCoder\ABC194\A\A\bin\Debug\A.pdb
+D:\競技プログラミング\AtCoder\ABC194\A\A\obj\Debug\A.csprojAssemblyReference.cache
+D:\競技プログラミング\AtCoder\ABC194\A\A\obj\Debug\A.csproj.CoreCompileInputs.cache
+D:\競技プログラミング\AtCoder\ABC194\A\A\obj\Debug\A.exe
+D:\競技プログラミング\AtCoder\ABC194\A\A\obj\Debug\A.pdb

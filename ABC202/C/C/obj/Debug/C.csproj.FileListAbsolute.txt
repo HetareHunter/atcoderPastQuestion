@@ -1,0 +1,7 @@
+D:\競技プログラミング\AtCoder\ABC202\C\C\bin\Debug\C.exe.config
+D:\競技プログラミング\AtCoder\ABC202\C\C\bin\Debug\C.exe
+D:\競技プログラミング\AtCoder\ABC202\C\C\bin\Debug\C.pdb
+D:\競技プログラミング\AtCoder\ABC202\C\C\obj\Debug\C.csprojAssemblyReference.cache
+D:\競技プログラミング\AtCoder\ABC202\C\C\obj\Debug\C.csproj.CoreCompileInputs.cache
+D:\競技プログラミング\AtCoder\ABC202\C\C\obj\Debug\C.exe
+D:\競技プログラミング\AtCoder\ABC202\C\C\obj\Debug\C.pdb
